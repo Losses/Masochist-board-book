@@ -5,5 +5,5 @@
 * [安装](Installing.md)
 * [内容管理](management.md)
 * [插件的安装和使用](plugins.md)
-* APi
+* [APi](api.md)
 
