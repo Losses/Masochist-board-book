@@ -1,0 +1,1 @@
+欢迎来到 Masochist-board 的开发者手册！
